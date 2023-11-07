@@ -48,3 +48,6 @@ button{
 #msg-1,#msg-2 {
     color: rgb(29, 29, 126);
 }
+@media screen and (max-width: 800px) {
+    
+}
